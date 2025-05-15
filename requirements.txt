@@ -1,0 +1,6 @@
+pandas
+matplotlib
+seaborn
+selenium
+beautifulsoup4
+numpy
